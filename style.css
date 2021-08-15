@@ -1,0 +1,58 @@
+.content {
+    max-width: 500px;
+    margin:auto;
+    padding:100px;
+}
+.background
+{
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffff;
+    border:1px solid black;
+    opacity: 0.6;
+}
+.form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    color:white;
+    text-align: center;
+}
+h1
+{
+    color: turquoise;
+    border-block-color:white;
+    border-style: double;
+    text-align: center;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.button
+{
+    padding: 10px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+
+    
+}
+
+.myButton {
+
+    padding: 10px 20px;
+    display:block;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align:center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+}
+
+.credits{
+    color: white;
+}
+
+
